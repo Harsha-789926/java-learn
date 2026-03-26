@@ -16,7 +16,7 @@ public class calculator {
          return a/b;
         }
        return 0;
-       }  
+       }
     public static void main(String[] args) {
         int a,b,ch;
         Scanner sc =new Scanner(System.in);
